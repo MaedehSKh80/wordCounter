@@ -109,6 +109,12 @@ textarea {
 
   font-size: 30px;
 }
+
+.state-number--limite {
+  color: rgb(132, 13, 13);
+  font-weight: 600;
+}
+
 .second-heading {
   font-size: 20px;
   color: #3b3b3b;
